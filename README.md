@@ -3,7 +3,7 @@ Wordle clone for the NumWorks calculator in micropython.
 
 This version can be run on a PC.
 
-You can find the minified NumWorks version at (https://my.numworks.com/python/fizban/wordle). You have to send both files to the calculator and execute usunfish_chess.py
+You can find the minified NumWorks version at (https://my.numworks.com/python/fizban/wordle).
 
 
 You can play directly on your browser thanks to pyodide integration of pygame (it takes some time for the initial load):
