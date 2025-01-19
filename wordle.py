@@ -316,7 +316,6 @@ msgs = ("  Genius!",
 
 async def main():
     w_num = randint(1, 2315)
-    w_num = 1851
     # conceal the word number
     w_id = ((w_num>>6) | ((w_num<<6)&0xFC0)) ^0xAAA
     print("Selected NW-Wordle id: #"+ str(w_id))
