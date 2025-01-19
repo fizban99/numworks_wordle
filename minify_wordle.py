@@ -24,7 +24,7 @@ with open('wordle_min.py', 'w') as f:
 import zipfile
 
 # List of files to be added to the ZIP
-files_to_zip = ['icon.ico', 'kandinsky.py', 'ion.py', 'small_font.ttf', 'large_font.ttf', 'wordle.py', 'pygame_textinput.py', 'wordle_min.py']
+files_to_zip = ['icon.ico', 'kandinsky.py', 'ion.py', 'small_font.ttf', 'large_font.ttf', 'wordle.py', 'pygame_textinput.py']
 
 # Create a ZIP file
 zip_file = './app/wordle.zip'
