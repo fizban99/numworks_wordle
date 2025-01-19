@@ -7,7 +7,7 @@ You can find the minified NumWorks version at (https://my.numworks.com/python/fi
 
 
 You can play directly on your browser thanks to pyodide integration of pygame (it takes some time for the initial load):
-https://fizban99.github.io/numworks_usunfish/app
+https://fizban99.github.io/numworks_wordle/app
 
 
 ![Screenshot](img/numworks_wordle.png)
