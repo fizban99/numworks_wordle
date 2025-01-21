@@ -3,11 +3,11 @@ Wordle clone for the NumWorks calculator in micropython.
 
 This version can be run on a PC.
 
-You can find the minified NumWorks version at (https://my.numworks.com/python/fizban/wordle).
+You can find the minified NumWorks version at [my repository](https://my.numworks.com/python/fizban/wordle).
 
 
 You can play directly on your browser thanks to pyodide integration of pygame (it takes some time for the initial load):
-https://fizban99.github.io/numworks_wordle/app
+[online NumWorks wordle](https://fizban99.github.io/numworks_wordle/app)
 
 
 ![Screenshot](img/numworks_wordle.png)
