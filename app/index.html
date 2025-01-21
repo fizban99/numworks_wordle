@@ -51,6 +51,8 @@
           pyodide.unpackArchive(zipBinary, "zip", { extractDir: "." });
           pyodide.runPythonAsync(`
 import wordle
+import js
+js.document.title = "Wordle for NumWorks"
 wordle.main()
 `)
         }
